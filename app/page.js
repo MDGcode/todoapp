@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import Todo from "./components/Todo";
+import Todo from "./Todo";
 import {
   query,
   collection,
